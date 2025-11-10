@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.png" alt="Abdal 4iProto Ecosystem Logo" >
+  <img src="logo-text.png" alt="Abdal 4iProto Ecosystem Logo" >
 </p>
 
 # 🧬 The Abdal 4iProto Ecosystem
