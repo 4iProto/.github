@@ -22,6 +22,7 @@ The ecosystem integrates multiple interconnected components, each designed for p
 | 🔐 **Abdal 4iProto Server** | High-performance SSH-based tunneling server with advanced security, rate limiting, and accounting features. | [abdal-4iproto-server](https://github.com/ebrasha/abdal-4iproto-server) |
 | ⚙️ **Abdal 4iProto Panel** | Web-based management panel for real-time control, user management, and monitoring — single-file executable built in Go. | [abdal-4iproto-panel](https://github.com/ebrasha/abdal-4iproto-panel) |
 | 💻 **Abdal 4iProto Client** | Modern Windows client providing one-click connection and local SOCKS5 proxy with a futuristic interface. | [abdal-4iproto-client](https://github.com/ebrasha/abdal-4iproto-client) |
+| 🖱️ **Abdal 4iProto Cli** | A CLI tool for managing the Abdal 4iProto Ecosystem. | [abdal-4iproto-cli](https://github.com/ebrasha/abdal-4iproto-cli) |
 | 🗝️ **Abdal 4iProto Server SSH KeyGen** | Interactive and CLI-based SSH key generator supporting RSA, ED25519, and ECDSA algorithms. | [abdal-4iproto-server-ssh-keygen](https://github.com/ebrasha/abdal-4iproto-server-ssh-keygen) |
 
 ---
