@@ -30,7 +30,9 @@ The ecosystem integrates multiple interconnected components, each designed for p
 
 ## 🚀 Key Highlights
 
-- **Fully SSH-based architecture** — No custom encryption layer needed, built atop proven cryptographic foundations.  
+- **Fully SSH-based architecture** — No custom encryption layer needed, built atop proven cryptographic foundations.
+- **Native UDP-over-SSH Tunneling** — 100% native and seamless handling of UDP traffic over SSH connections without requiring external wrappers.
+- **Built-in DNSTT Integration** — Full, native support for DNS Tunneling (DNSTT) to reliably bypass strict network restrictions and firewalls.
 - **Cross-platform support** — Linux & Windows compatibility for both server and panel.  
 - **Advanced Traffic & Session Control** — Dynamic session TTLs, user-specific rate limits, and live bandwidth enforcement.  
 - **Embedded Management Panel** — No external dependencies or databases required.  
