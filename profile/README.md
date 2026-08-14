@@ -25,6 +25,7 @@ The ecosystem integrates multiple interconnected components, each designed for p
 | 📱 **Abdal 4iProto Android Client** | Official Android client for seamless, secure, and device-wide 4iProto VPN connections. | [abdal-4iproto-client-android](https://github.com/ebrasha/abdal-4iproto-client-android) |
 | 🖱️ **Abdal 4iProto Cli** | A CLI tool for managing the Abdal 4iProto Ecosystem. | [abdal-4iproto-cli](https://github.com/ebrasha/abdal-4iproto-cli) |
 | 🗝️ **Abdal 4iProto Server SSH KeyGen** | Interactive and CLI-based SSH key generator supporting RSA, ED25519, and ECDSA algorithms. | [abdal-4iproto-server-ssh-keygen](https://github.com/ebrasha/abdal-4iproto-server-ssh-keygen) |
+| 🖱️ **Abdal 4iProto Proxy** | High-performance TCP/UDP Layer-4 proxy with Multi-Hop routing, RAW UDP relay, traffic forwarding, access control, and network security features. | [Abdal 4iProto Proxy](https://github.com/ebrasha/abdal-4iproto-proxy) |
 
 ---
 
